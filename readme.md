@@ -1,1 +1,1 @@
-ola esse projeito te ensina a como mecher no git
+ola esse projeito simples ainda em andamento
